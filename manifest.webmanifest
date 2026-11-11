@@ -1,0 +1,10 @@
+{
+  "name": "The Emporium Studio",
+  "short_name": "Emporium Studio",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#17120f",
+  "theme_color": "#17120f",
+  "description": "A mobile production workshop for The Dark Travelling Emporium.",
+  "icons": []
+}
